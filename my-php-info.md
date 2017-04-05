@@ -6,3 +6,6 @@
 
 
 [mmtut php video playlist](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-)
+
+
+[php and mysql video playlist](https://www.youtube.com/playlist?list=PLkVEauP-zmXM_GOalZpY90Q1OE-TG9E74)
