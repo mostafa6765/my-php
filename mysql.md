@@ -1,8 +1,9 @@
 
-#php mysql 
+# php mysql 
 
 ---
-* [php.net myql] (http://php.net/manual/en/ref.mysql.php)
+*  [ php.net myql ] (http://php.net/manual/en/ref.mysql.php)
+* [ php net mysql main book ] (http://php.net/manual/en/book.mysql.php)
 
 ---
 [mysql boston playlist](https://www.youtube.com/playlist?list=PL32BC9C878BA72085)
