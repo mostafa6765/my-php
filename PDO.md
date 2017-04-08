@@ -5,3 +5,5 @@ PDO-PHP DATA OBJECT
 
 
 * [Database connection php tut](https://code.tutsplus.com/tutorials/php-database-access-are-you-doing-it-correctly--net-25338)
+
+* [which best PDO OR MYSQLI SETUP](https://code.tutsplus.com/tutorials/pdo-vs-mysqli-which-should-you-use--net-24059)
